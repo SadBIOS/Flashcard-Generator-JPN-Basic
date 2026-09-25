@@ -1,4 +1,4 @@
-# Kana-Flash-Card-Generator
+# Japanese Alphabet Flashcard Generator
 
 ## Setup
 
