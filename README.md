@@ -68,7 +68,7 @@ Everything should build automatically after that.
 
 > [!NOTE]
 > * Please edit the font names (point directly to the ```.ttf``` file directly)
-> * I used  [Noto Sans Japanese] and [Noto Serif Japanese] from [Google Fonts](https://fonts.google.com/)
+> * I used  [Noto Sans Japanese] and [Noto Serif Japanese](https://fonts.google.com/noto/specimen/Noto+Serif+JP) from [Google Fonts](https://fonts.google.com/)
 > * Unfortunately, I am not Japanese (nor am I a native English speaker), but I am learning the language. Please feel free to point out any errors in the character set.
 > * I couldn’t find a suitable Anki deck, and I was a bit lazy, so I decided to make my own
 > * I will probably add kanji radicals **Soon™**
