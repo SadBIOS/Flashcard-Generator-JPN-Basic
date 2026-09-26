@@ -20,7 +20,6 @@ Extract it somewhere simple like:
 C:\WinPython\
 ````
 
----
 
 ## 2. Install Make (MinGW)
 
