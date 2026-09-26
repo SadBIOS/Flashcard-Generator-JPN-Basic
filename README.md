@@ -66,8 +66,6 @@ Inside the project folder, run:
 make
 ```
 
----
-
 ## Done
 
 Everything should build automatically after that.
