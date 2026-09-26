@@ -70,7 +70,6 @@ make
 
 Everything should build automatically after that.
 
----
 
 ## Notes
 * Please edit the font names (point directly to the .ttf file directly). I used Noto Sans JP and Noto Serif JP from Google Fonts.
