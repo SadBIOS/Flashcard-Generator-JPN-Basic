@@ -4,7 +4,6 @@
 
 This project helps generate Anki-style flashcards for learning Japanese. *Please Check the Notes Section for Font Settings*
 
-
 ## 1. Download Python (WinPython)
 
 Get a stable release here:  
