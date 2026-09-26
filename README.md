@@ -71,4 +71,4 @@ Everything should build automatically after that.
 > * Unfortunately, I am not Japanese (nor am I a native English speaker), but I am learning the language. Please feel free to point out any errors in the character set.
 > * I couldn’t find a suitable Anki deck, and I was a bit lazy, so I decided to make my own.
 > * I will probably add kanji radicals **Soon™**
-* Emphasis on the word *probably*.
+> * Emphasis on the word *probably*.
