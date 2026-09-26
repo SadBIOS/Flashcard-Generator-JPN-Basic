@@ -56,7 +56,6 @@ Example:
 C:\WinPython\python-3.14.0\
 ```
 
-
 ## 4. Build
 
 Inside the project folder, run:
