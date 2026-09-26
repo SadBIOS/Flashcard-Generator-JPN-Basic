@@ -20,7 +20,6 @@ Extract it somewhere simple like:
 C:\WinPython\
 ````
 
-
 ## 2. Install Make (MinGW)
 
 Download from WinLibs:
@@ -41,8 +40,6 @@ Add this folder to your PATH:
 ```text
 mingw64\bin
 ```
-
----
 
 ## 3. Configure Python path
 
